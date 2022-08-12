@@ -51,7 +51,6 @@
 ## 三、界面详情
 <a name="lRcgy"></a>
 ### 3.1 登录以及注册
-![image.png](https://github.com/Costwen/moyu-rs-platform/blob/main/img/2022-07-10-13-49-29.png)
 ![image.png](https://cdn.nlark.com/yuque/0/2022/png/26707870/1660292043087-e5598f03-6b49-4747-b1f1-3096da4e8aec.png#clientId=u8165289c-99ac-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=937&id=uc7b05733&margin=%5Bobject%20Object%5D&name=image.png&originHeight=937&originWidth=1920&originalType=binary&ratio=1&rotation=0&showTitle=false&size=277968&status=done&style=none&taskId=uad12e300-d621-4c11-b0ab-d100dd23eed&title=&width=1920)<br />![image.png](https://cdn.nlark.com/yuque/0/2022/png/26707870/1660292066269-d1b1b094-2426-4d77-a6fa-115242c7074b.png#clientId=u8165289c-99ac-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=937&id=ue8074db5&margin=%5Bobject%20Object%5D&name=image.png&originHeight=937&originWidth=1920&originalType=binary&ratio=1&rotation=0&showTitle=false&size=279235&status=done&style=none&taskId=u3371c04f-d2bb-4478-9e1b-d8ba5d515f7&title=&width=1920)
 <a name="A2UjP"></a>
 ### 3.2 主页
