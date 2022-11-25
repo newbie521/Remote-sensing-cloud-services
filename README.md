@@ -3,7 +3,7 @@
 我们是来自中国矿业大学的计算机学生，该项目是来自《第十一届中国软件杯大学生软件设计大赛》中的《A4-基于百度飞桨的遥感图像智能解译平台》赛道。
 <a name="fBhgi"></a>
 ### 1. 遥感云服务官网
-[http://icloud.mua5201314.com/](http://icloud.mua5201314.com/)
+[http://iclouds.newbies.top/](http://iclouds.newbies.top/)
 ```json
 手机号：19852128280
 密码：dssd
